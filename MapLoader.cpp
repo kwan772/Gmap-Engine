@@ -7,6 +7,6 @@ int main() {
 #include <iostream>
 
 int main() {
-    std::cout << "GMap Engine - Map Utilities" << std::endl;
+    std::cout << "GMap SDFlitiesSBSFVBDVBFDG" << std::endl;
     return 0;
 }
